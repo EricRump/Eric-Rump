@@ -1,5 +1,15 @@
 # Eric Rump
-My personal repository
 
-## learning to code with the help of codingBootcampsEurope 🔥
-⚽ love football ⚽
+about me:
+- 25 years old
+- Location: Rochlitz, Sachsen, Germany
+
+Career: 
+- Sportstherapist
+- Fitnesscoach
+- Web Designer
+
+what i`m currently doing:
+- learning to code with the help of codingBootcampsEurope 🔥
+- playing football ⚽
+- traveling the world
