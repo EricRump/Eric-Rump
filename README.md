@@ -1,3 +1,5 @@
-# Eric-Rump
+# Eric Rump
 My personal repository
-learning to code
+
+# learning to code with the help of codingBootcampsEurope
+love football 
