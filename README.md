@@ -5,9 +5,9 @@ about me:
 - Location: Rochlitz, Sachsen, Germany
 
 Career: 
-- Sportstherapist
-- Fitnesscoach
-- Web Designer
+[x] Sportstherapist
+[x] Fitnesscoach
+[ ] Web Designer
 
 what i`m currently doing:
 - learning to code with the help of codingBootcampsEurope 🔥
